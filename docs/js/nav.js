@@ -8,15 +8,17 @@ document.getElementById("nav-menu").innerHTML =
     '<li><a href="conferences.html">Confs</a></li>'+
     '<li><a href="festival.html">Festival</a></li>'+
     '<li><a href="faire.html">STEAM</a></li>'+
+    '<li><a href="school.html">Summer School</a></li>'+
+    '<li><a href="calls.html">Calls</a></li>'+
+    '<li><a href="venues.html">Venues</a></li>'+
+    '<li><a href="registration.html">Register</a></li>'+
+    '<li><a href="sponsoring.html">Donate</a></li>'+
     '<li><a href="about.html">About</a></li>'+
     '</ul>'+
-    '</div>'+
-    '<div class="social-media">'+
-    '<div class="social-link-holder"><a href="#">Instagram</a></div>'+
-    '<div class="social-link-holder"><a href="#">Facebook</a></div>'+
     '</div>'
 ;
 
+/*
 document.getElementById("nav-social").innerHTML =
     '<div class="row">'+
     '<div class="col">'+
@@ -32,6 +34,7 @@ document.getElementById("nav-social").innerHTML =
     '</div>'+
     '</div>'
 ;
+*/
 
 document.getElementById("nav-footer").innerHTML =
     '<div class="row">'+

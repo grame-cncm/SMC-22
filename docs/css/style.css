@@ -41,6 +41,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Lalezar", cursive;
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+
 .cr-btn {
     display: inline-block;
     font-family: "Lalezar", cursive;
@@ -94,6 +101,7 @@ body {
     overflow-x: hidden;
     -webkit-transition: all 500ms cubic-bezier(1, -0.02, 0.25, 0.75);
     transition: all 500ms cubic-bezier(1, -0.02, 0.25, 0.75);
+    font-size: 1.1rem;
 }
 
 body.menu-open {
@@ -1336,9 +1344,6 @@ body.menu-open {
 
 .post-section .post-content p {
     color: rgba(0, 0, 0, 0.66);
-    font-size: 1.12rem;
-    line-height: 2.5rem;
-    margin-bottom: 4rem;
 }
 
 /* -----------------------------------
