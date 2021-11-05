@@ -239,13 +239,14 @@ body.menu-open {
 
 .main-menu .menu-links ul li a {
     display: inline-block;
-    font-size: 5.3rem;
-    line-height: 3.4rem;
+    font-size: 3.5rem;
+    line-height: 2.4rem;
     font-family: "Lalezar", cursive;
     color: #14181C;
     text-transform: uppercase;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
+    border-bottom: 1px solid black;
 }
 
 .main-menu .menu-links ul li a:hover, .main-menu .menu-links ul li a:focus {
