@@ -239,8 +239,8 @@ body.menu-open {
 
 .main-menu .menu-links ul li a {
     display: inline-block;
-    font-size: 3.5rem;
-    line-height: 2.4rem;
+    font-size: 2.5rem;
+    line-height: 1.8rem;
     font-family: "Lalezar", cursive;
     color: #14181C;
     text-transform: uppercase;
