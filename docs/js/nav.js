@@ -12,7 +12,7 @@ document.getElementById("nav-menu").innerHTML =
     '<li><a href="calls.html">Calls</a></li>'+
     '<li><a href="venues.html">Venues</a></li>'+
     '<li><a href="ifc.html">IFC-22</a></li>'+
-    '<li><a href="registration.html">Register</a></li>'+
+    '<li><a href="registration.html">Register/Travel</a></li>'+
     '<li><a href="sponsoring.html">Donate</a></li>'+
     '<li><a href="about.html">About</a></li>'+
     '</ul>'+
