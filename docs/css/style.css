@@ -22,6 +22,35 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
 
 @import url("https://fonts.googleapis.com/css?family=Lalezar&display=swap");
+
+/* -----------------------------------
+    0 - Added Elements
+------------------------------------*/
+
+.pgm-school {
+    background-color: #AED6F1;
+}
+
+.pgm-art {
+    background-color: #FF5733;
+}
+
+.pgm-general {
+    background-color: #CE33FF;
+}
+
+.pgm-ifc {
+    background-color: #33A2FF;
+}
+
+.pgm-jim {
+    background-color: #33FFC1;
+}
+
+.pgm-sci {
+    background-color: #F3FF33;
+}
+
 /* -----------------------------------
     1 - General Styles
 ------------------------------------*/
