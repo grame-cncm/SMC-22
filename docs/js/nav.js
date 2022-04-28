@@ -5,8 +5,9 @@ document.getElementById("nav-menu").innerHTML =
     '<div class="menu-links">'+
     '<ul>'+
     '<li><a href="index.html">Home</a></li>'+
-'<li><a href="program.html">Program</a></li>'+
-'<li><a href="conferences.html">Confs</a></li>'+
+    '<li><a href="program.html">Program</a></li>'+
+    '<li><a href="keynotes.html">Keynotes</a></li>'+
+    '<li><a href="conferences.html">Confs</a></li>'+
     '<li><a href="festival.html">Festival</a></li>'+
     '<li><a href="faites.html">Faites du Son!</a></li>'+
     '<li><a href="school.html">Sum. School</a></li>'+
