@@ -1,6 +1,7 @@
 document.getElementById("nav-menu").innerHTML =
     '<div class="contant-info">'+
     '<div><a href="mailto:smc22@grame.fr">smc22@grame.fr</a></div>'+
+    '<div><a href="misc/smc22_fr.pdf"><img src="images/france-flag.png" width="10%"></a></div>'+
     '</div>'+
     '<div class="menu-links">'+
     '<ul>'+
