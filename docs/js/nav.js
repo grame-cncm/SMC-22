@@ -6,6 +6,7 @@ document.getElementById("nav-menu").innerHTML =
     '<div class="menu-links">'+
     '<ul>'+
     '<li><a href="index.html">Home</a></li>'+
+    '<li><a href="stream.html">Live Stream</a></li>'+
     '<li><a href="program.html">Program</a></li>'+
     '<li><a href="keynotes.html">Keynotes</a></li>'+
     '<li><a href="conferences.html">Confs</a></li>'+
