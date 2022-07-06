@@ -6,9 +6,9 @@ document.getElementById("nav-menu").innerHTML =
     '<div class="menu-links">'+
     '<ul>'+
     '<li><a href="index.html">Home</a></li>'+
-    '<li><a href="stream.html">Live Stream</a></li>'+
-    '<li><a href="program.html">Program</a></li>'+
+    '<li><a href="program.html">Program/Medias</a></li>'+
     '<li><a href="keynotes.html">Keynotes</a></li>'+
+    '<li><a href="awards.html">Awards</a></li>'+
     '<li><a href="conferences.html">Confs</a></li>'+
     '<li><a href="festival.html">Festival</a></li>'+
     '<li><a href="faites.html">Faites du Son!</a></li>'+
@@ -17,7 +17,6 @@ document.getElementById("nav-menu").innerHTML =
     '<li><a href="venues.html">Venues</a></li>'+
     '<li><a href="ifc.html">IFC-22</a></li>'+
     '<li><a href="registration.html">Register/Travel</a></li>'+
-    '<li><a href="sponsoring.html">Donate</a></li>'+
     '<li><a href="about.html">About</a></li>'+
     '</ul>'+
     '</div>'
